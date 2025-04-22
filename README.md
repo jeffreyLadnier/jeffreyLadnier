@@ -13,5 +13,6 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Connect With Me
 - 📧 Reach out: [w985112@usm.edu]
+- LinkedIn: 
