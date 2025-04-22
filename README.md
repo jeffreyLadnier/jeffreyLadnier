@@ -21,5 +21,4 @@
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio coming soon!]
-- 📧 Reach out: [your email or placeholder]
+- 📧 Reach out: [w985112@usm.edu]
