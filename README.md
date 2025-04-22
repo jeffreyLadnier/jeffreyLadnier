@@ -13,12 +13,5 @@
 
 ---
 
-### 🚀 Goals
-- Become a full-time React developer by the end of the year
-- Build and deploy a polished portfolio projects
-- Get better at solving LeetCode problems (slow and steady)
-
----
-
 ### 📫 Let's Connect!
 - 📧 Reach out: [w985112@usm.edu]
